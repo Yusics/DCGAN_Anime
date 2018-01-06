@@ -17,7 +17,7 @@ the input should be [hair color] hair [eyes color] eyes. Our model can suppose g
 red hair red eyes:
 <img src="rhre.png" width="50" height="50" />
 purple hair blue eyes:
-![alt text](phbe.png =50x50)
+<img src="phbe.png" width="50" height="50" />
 
 ## Running the Program ##
 bash run.sh [testing_text.txt]
