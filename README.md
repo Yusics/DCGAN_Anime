@@ -13,7 +13,7 @@ Model:
 ## Input ##
 the input should be [hair color] hair [eyes color] eyes. Our model can suppose generate the corresponding Japan Anime.
 
-## Output Examples ##
+## Sample Output ##
 red hair red eyes:
 <img src="rhre.png" width="50" height="50" />
 purple hair blue eyes:
