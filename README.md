@@ -15,10 +15,13 @@ the input should be [hair color] hair [eyes color] eyes. Our model can suppose g
 
 ## Output Examples ##
 red hair red eyes:
-![alt text](rhre.png)
+![alt text](rhre.png=50x50)
 purple hair blue eyes:
-![alt text](phbe.png)
+![alt text](phbe.png=50x50)
 
 ## Running the Program ##
 bash run.sh [testing_text.txt]
+
+## Discussion ##
+We wrote our results and discussion in report.pdf which is written in Chinese.
 
